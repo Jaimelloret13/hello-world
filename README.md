@@ -1,24 +1,8 @@
 # hello-world
 
+Repositorio de prueba de Jaime Lloret Roqueta, alumno de 3ºA del grado de ingeniería de teleco en ICAI
+
 Un repositorio para empezar a usar Github y Github Actions con Java
 
-## ¿Como probar en el cloud?
-
-[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitt-3-pat/hello-world)
-
-## Comandos git básicos
-
-```
-git clone https://github.com/gitt-3-pat/hello-world
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
-
-git checkout -b feature/1
-git checkout main
-```
-
-## Referencias
-
-- https://git-scm.com/
+En esta primera práctica se han utilizado algunos comando del git como: status, add, commit, push y checkout.
+Como se puede comprobar se ha añadido un archivo HOLA.txt al repositorio y se ha subido con el comentario "Archivo HOLA agregado".
