@@ -1,7 +1,7 @@
 ## hello-world Jaime Lloret
-
-# Repositorio de prueba de Jaime Lloret Roqueta, alumno de 3ºA del grado de ingeniería de teleco en ICAI
 # 201903624@alu.comillas.edu
+
+Repositorio de prueba de Jaime Lloret Roqueta, alumno de 3ºA del grado de ingeniería de teleco en ICAI
 
 Un repositorio para empezar a usar Github y Github Actions con Java
 
